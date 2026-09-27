@@ -1,0 +1,10 @@
+# 构建产物（通常使用仓库外的影子构建目录）
+build/
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile
+VoiceAssistantQt
